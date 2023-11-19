@@ -7,7 +7,7 @@
 		</update>
 	</info>
 	<files>
-		<file name="source.xml" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/source.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/source.xml" />
 
 		<!--Races-->
 		<!-- <file name="race-augmented.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/race-augmented.xml" /> -->
