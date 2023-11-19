@@ -1,1 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Raventhemylo's Homebrew Content</name>
+		<update version="0.0.1">
+			<file name="raventhemylo.index" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/raventhemylo.index" />
+		</update>
+	</info>
+	<files>
+		<file name="source.xml" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/source.xml" />
 
+		<!--Races-->
+		<!-- <file name="race-augmented.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/race-augmented.xml" /> -->
+
+		<!--Subclasses-->
+		<!-- <file name="barbarian-spirits.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/barbarian-spirits.xml" /> -->
+
+		<!--Other-->
+		<!-- <file name="magic-items.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/magic-items.xml" /> -->
+		<file name="weapon-fan.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/weapon-fan.xml" />
+		<file name="items-weapons.xml" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/items-weapons.xml" />
+	</files>
+</index>
