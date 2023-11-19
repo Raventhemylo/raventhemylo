@@ -3,7 +3,7 @@
 	<info>
 		<name>Weapons</name>
 		<update version="0.0.1">
-			<file name="items-weapons.xml" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/items-weapons.xml" />
+			<file name="items-weapons.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/items-weapons.xml" />
 		</update>
 	</info>
 
