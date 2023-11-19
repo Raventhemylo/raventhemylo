@@ -13,6 +13,7 @@
 		<setters>
 			<set name="abbreviation">RTM</set>
 			<set name="url">https://github.com/Raventhemylo/raventhemylo</set>
+			<set name="author" abbreviation="MW" url="">Myles Wirt</set>
 			<set name="playtest">true</set>
 			<set name="homebrew">true</set>
 		</setters>
