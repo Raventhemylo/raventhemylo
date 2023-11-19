@@ -3,7 +3,7 @@
 	<info>
 		<name>Raventhemylo Source</name>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/source.xml" />
 		</update>
 	</info>
 	<element name="Raventhemylo" type="Source" source="Core" id="ID_HOMEBREW_SOURCE_RAVENTHEMYLO">
