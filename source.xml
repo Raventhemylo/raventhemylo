@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <elements>
 	<info>
-		<name>Raventhemylo Source</name>
+		<name>Raventhemylo Homebrew Source</name>
 		<update version="0.0.1">
 			<file name="source.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/source.xml" />
 		</update>
 	</info>
 	<element name="Raventhemylo" type="Source" source="Core" id="ID_HOMEBREW_SOURCE_RAVENTHEMYLO">
 		<description>
-			<p></p>
+			<p>Homebrew options from Raventhemylo.</p>
 		</description>
 		<setters>
 			<set name="abbreviation">RTM</set>
-			<set name="image">https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8279f786-1353-4056-9948-d292d6d99c4f/db29dz2-985b760f-6ffd-4ce6-874b-90117e83e9b4.jpg/v1/fill/w_900,h_1246,q_75,strp/ravens_problem_by_picolo_kun_db29dz2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI0NiIsInBhdGgiOiJcL2ZcLzgyNzlmNzg2LTEzNTMtNDA1Ni05OTQ4LWQyOTJkNmQ5OWM0ZlwvZGIyOWR6Mi05ODViNzYwZi02ZmZkLTRjZTYtODc0Yi05MDExN2U4M2U5YjQuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ewgVZWrj9fGhUidX_P_yesCgXB289n-P2RACb55HreA</set>
-			<set name="url">https://github.com/Raventhemylo/raventhemylo</set>
-			<set name="author" abbreviation="MW" url="https://twitter.com/raventhemylo">Raen</set>
-			<set name="release">1</set>
+			<set name="image">https://beautifulbizarre.net/wp-content/uploads/2019/08/picolo-teen-titans.jpg</set>
+			<set name="url">https://twitter.com/raventhemylo</set>
+			<set name="author" abbreviation="RTM" url="https://twitter.com/raventhemylo">Raen</set>
+			<set name="release">20220221</set>
 			<set name="playtest">true</set>
 			<set name="homebrew">true</set>
 		</setters>
