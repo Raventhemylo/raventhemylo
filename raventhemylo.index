@@ -17,6 +17,6 @@
 
 		<!--Other-->
 		<!-- <file name="magic-items.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/magic-items.xml" /> -->
-		<file name="items-weapons.xml" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/items-weapons.xml" />
+		<file name="items-weapons.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/items-weapons.xml" />
 	</files>
 </index>
