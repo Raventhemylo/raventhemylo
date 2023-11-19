@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <elements>
 	<info>
-		<name>Pointy Hat YouTube Source</name>
+		<name>Raventhemylo Source</name>
 		<update version="0.0.1">
 			<file name="source.xml" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/source.xml" />
 		</update>
