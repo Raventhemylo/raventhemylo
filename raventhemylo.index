@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>Raventhemylo's Homebrew Content</name>
-		<update version="0.0.1">
+		<update version="1.0.0">
 			<file name="raventhemylo.index" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/raventhemylo.index" />
 		</update>
 	</info>
@@ -17,7 +17,6 @@
 
 		<!--Other-->
 		<!-- <file name="magic-items.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/magic-items.xml" /> -->
-		<file name="weapon-fan.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/weapon-fan.xml" />
 		<file name="items-weapons.xml" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/items-weapons.xml" />
 	</files>
 </index>
