@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>Raventhemylo's Homebrew Content</name>
-		<update version="1.0.0">
+		<update version="1.0.1">
 			<file name="raventhemylo.index" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/raventhemylo.index" />
 		</update>
 	</info>
