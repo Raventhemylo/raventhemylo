@@ -17,7 +17,7 @@
 			<set name="author" abbreviation="MW" url="https://twitter.com/raventhemylo">Raen</set>
 			<set name="playtest">true</set>
 			<set name="homebrew">true</set>
-			<!-- <set name="release">20220221</set> -->
+			<set name="release">1</set>
 		</setters>
 	</element>
 </elements>
