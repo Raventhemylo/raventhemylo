@@ -3,7 +3,7 @@
 	<info>
 		<name>Pointy Hat YouTube Source</name>
 		<update version="0.0.1">
-			<file name="source.xml" url="" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mgarrett1894/raventhemylo/main/source.xml" />
 		</update>
 	</info>
 	<element name="Raventhemylo" type="Source" source="Core" id="ID_HOMEBREW_SOURCE_RAVENTHEMYLO">
