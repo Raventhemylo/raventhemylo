@@ -107,7 +107,7 @@
 	</element>
 
 	<element name="Discharge" type="Weapon Property" source="Raventhemylo" id="ID_RAVENTHEMYLO_PROFICIENCY_STORMCALLER_DISCHARGE_V2">
-		<desciption>
+		<description>
 			<p> Stormcaller stores the excess kinetic energy of its weilder as charges and can hold a max of 8. You can expend a charge to transform Stormcaller into cannon form, making a ranged attack with it. As part of an attack you can expend a charge to add 1d8 lighting damage. You can expend two charges instead to cause everything within 5 ft. of the target to make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 lightning damage, taking half on a sucessful save. You can expend 4 charges to shoot a net of lighting at a target within 30 ft. On a hit, the target takes an additional 1d8 lightning damage and makes dexterity saving throw with the DC calculated prior. Charges are gained by landing a critical hit or by rolling the maximum value on a damage die. On a miss, the energy fails to detonate or bounces away harmlessly before doing so. </p>
 		</description>
 	</element>
