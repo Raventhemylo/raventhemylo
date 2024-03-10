@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Weapons</name>
-		<update version="0.0.2">
+		<update version="0.0.5">
 			<file name="items-weapons.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/items-weapons.xml" />
 		</update>
 	</info>
