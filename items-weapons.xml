@@ -39,7 +39,7 @@
 				<li>You can expend one charge to transform Stormcaller into cannon form.</li>
 				<li>As part of an attack you can expend a charge to add 1d8 lighting damage.</li>
 				<li>You can expend two charges instead to cause everything within 5 ft. of the target to make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 lightning damage, taking half on a sucessful save.</li>
-				<li>You can expend 4 charges to shoot a net of lighting at a target within 30 ft. On a hit, the target takes an additional 1d8 lightning damage and makes dexterity saving throw with the DC calculated prior.</li>
+				<li>You can expend 4 charges to shoot a net of lighting at a target within 30 ft. On a hit, the target takes an additional 1d8 lightning damage and makes dexterity saving throw with the DC calculated prior. On a failure, they are grappled for one round.</li>
 				<li>On a miss, the energy fails to detonate or bounces away harmlessly before doing so.</li>
 			</ul>
 		</description>
@@ -82,7 +82,7 @@
 				<li>You can expend one charge to transform Stormcaller into cannon form.</li>
 				<li>As part of an attack you can expend a charge to add 1d8 lighting damage.</li>
 				<li>You can expend two charges instead to cause everything within 5 ft. of the target to make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 lightning damage, taking half on a sucessful save.</li>
-				<li>You can expend 4 charges to shoot a net of lighting at a target within 30 ft. On a hit, the target takes an additional 1d8 lightning damage and makes dexterity saving throw with the DC calculated prior.</li>
+				<li>You can expend 4 charges to shoot a net of lighting at a target within 30 ft. On a hit, the target takes an additional 1d8 lightning damage and makes dexterity saving throw with the DC calculated prior. On a failure, they are grappled for one round.</li>
 				<li>On a miss, the energy fails to detonate or bounces away harmlessly before doing so.</li>
 			</ul>
 		</description>
