@@ -32,7 +32,7 @@
 	</element>
 
 	<element name="Stormcaller Hammer v2" type="Weapon" source="Raventhemylo" id="ID_RTM_CW_WEAPON_STORMCALLER_HAMMER_2">
-		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_BLUDGEONING, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_INTERNAL_WEAPON_GROUP_HAMMERS, ID_RAVENTHEMYLO_WEAPON_PROPERTY_STORMCALLER_DISCHARGE</supports>
+		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_BLUDGEONING, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_INTERNAL_WEAPON_GROUP_HAMMERS, ID_RAVENTHEMYLO_WEAPON_PROPERTY_STORMCALLER_DISCHARGE_V2</supports>
 		<description>
 			<p>Stormcaller stores the excess kinetic energy of its weilder as charges and can hold a max of 6. Charges are gained by landing a critical hit or by rolling the maximum value on a damage die. </p>
 			<ul>
@@ -75,7 +75,7 @@
 	</element>
 
 	<element name="Stormcaller Cannon v2" type="Weapon" source="Raventhemylo" id="ID_RTM_CW_WEAPON_STORMCALLER_CANNON_2">
-		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_BLUDGEONING, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_INTERNAL_WEAPON_GROUP_HAMMERS, ID_RAVENTHEMYLO_WEAPON_PROPERTY_STORMCALLER_DISCHARGE</supports>
+		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_BLUDGEONING, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_INTERNAL_WEAPON_GROUP_HAMMERS, ID_RAVENTHEMYLO_WEAPON_PROPERTY_STORMCALLER_DISCHARGE_V2</supports>
 		<description>
 			<p>Stormcaller stores the excess kinetic energy of its weilder as charges and can hold a max of 6. Charges are gained by landing a critical hit or by rolling the maximum value on a damage die. </p>
 			<ul>
