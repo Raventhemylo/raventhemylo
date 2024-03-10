@@ -31,6 +31,28 @@
 		</setters>
 	</element>
 
+	<element name="Stormcaller Hammer v2" type="Weapon" source="Raventhemylo" id="ID_RTM_CW_WEAPON_STORMCALLER_HAMMER_2">
+		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_BLUDGEONING, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_INTERNAL_WEAPON_GROUP_HAMMERS, ID_RAVENTHEMYLO_WEAPON_PROPERTY_STORMCALLER_DISCHARGE</supports>
+		<description>
+			<p>Stormcaller stores the excess kinetic energy of its weilder as charges and can hold a max of 6. Charges are gained by landing a critical hit or by rolling the maximum value on a damage die. </p>
+			<ul>
+				<li>You can expend one charge to transform Stormcaller into cannon form.</li>
+				<li>As part of an attack you can expend a charge to add 1d8 lighting damage.</li>
+				<li>You can expend two charges instead to cause everything within 5 ft. of the target to make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 lightning damage, taking half on a sucessful save.</li>
+				<li>You can expend 4 charges to shoot a net of lighting at a target within 30 ft. On a hit, the target takes an additional 1d8 lightning damage and makes dexterity saving throw with the DC calculated prior.</li>
+				<li>On a miss, the energy fails to detonate or bounces away harmlessly before doing so.</li>
+			</ul>
+		</description>
+		<setters>
+			<set name="category">Weapons</set>
+			<set name="cost" currency="gp">1000</set>
+			<set name="weight" lb="7.5">7.5 lb.</set>
+			<set name="slot">twohand</set>
+			<set name="damage" type="bludgeoning">1d8</set>
+			<set name="proficiency">ID_RAVENTHEMYLO_PROFICIENCY_WEAPON_PROFICIENCY_STORMCALLER</set>
+		</setters>
+	</element>
+
 	<element name="Stormcaller Cannon" type="Weapon" source="Raventhemylo" id="ID_RTM_CW_WEAPON_STORMCALLER_CANNON">
 		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_RANGED, ID_INTERNAL_DAMAGE_TYPE_PIERCING, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_INTERNAL_WEAPON_GROUP_BOWS, ID_RAVENTHEMYLO_WEAPON_PROPERTY_STORMCALLER_DISCHARGE</supports>
 		<description>
@@ -51,6 +73,28 @@
 			<set name="proficiency">ID_RAVENTHEMYLO_PROFICIENCY_WEAPON_PROFICIENCY_STORMCALLER</set>
 		</setters>
 	</element>
+
+	<element name="Stormcaller Cannon v2" type="Weapon" source="Raventhemylo" id="ID_RTM_CW_WEAPON_STORMCALLER_CANNON_2">
+		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_BLUDGEONING, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_INTERNAL_WEAPON_GROUP_HAMMERS, ID_RAVENTHEMYLO_WEAPON_PROPERTY_STORMCALLER_DISCHARGE</supports>
+		<description>
+			<p>Stormcaller stores the excess kinetic energy of its weilder as charges and can hold a max of 6. Charges are gained by landing a critical hit or by rolling the maximum value on a damage die. </p>
+			<ul>
+				<li>You can expend one charge to transform Stormcaller into cannon form.</li>
+				<li>As part of an attack you can expend a charge to add 1d8 lighting damage.</li>
+				<li>You can expend two charges instead to cause everything within 5 ft. of the target to make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 lightning damage, taking half on a sucessful save.</li>
+				<li>You can expend 4 charges to shoot a net of lighting at a target within 30 ft. On a hit, the target takes an additional 1d8 lightning damage and makes dexterity saving throw with the DC calculated prior.</li>
+				<li>On a miss, the energy fails to detonate or bounces away harmlessly before doing so.</li>
+			</ul>
+		</description>
+		<setters>
+			<set name="category">Weapons</set>
+			<set name="cost" currency="gp">1000</set>
+			<set name="weight" lb="7.5">7.5 lb.</set>
+			<set name="slot">twohand</set>
+			<set name="damage" type="bludgeoning">1d8</set>
+			<set name="proficiency">ID_RAVENTHEMYLO_PROFICIENCY_WEAPON_PROFICIENCY_STORMCALLER</set>
+		</setters>
+	</element>
 	
 	<element name="Weapon Proficiency (Stormcaller)" type="Proficiency"  source="Raventhemylo" id="ID_RAVENTHEMYLO_PROFICIENCY_WEAPON_PROFICIENCY_STORMCALLER">
 		<supports>Weapon, Martial, Melee, ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_RANGED, ID_INTERNAL_WEAPON_PROPERTY_HEAVY</supports>
@@ -62,6 +106,12 @@
 		</description>		
 	</element>
 
+	<element name="Discharge" type="Weapon Property" source="Raventhemylo" id="ID_RAVENTHEMYLO_PROFICIENCY_STORMCALLER_DISCHARGE_V2">
+		<desciption>
+			<p> Stormcaller stores the excess kinetic energy of its weilder as charges and can hold a max of 8. You can expend a charge to transform Stormcaller into cannon form, making a ranged attack with it. As part of an attack you can expend a charge to add 1d8 lighting damage. You can expend two charges instead to cause everything within 5 ft. of the target to make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 lightning damage, taking half on a sucessful save. You can expend 4 charges to shoot a net of lighting at a target within 30 ft. On a hit, the target takes an additional 1d8 lightning damage and makes dexterity saving throw with the DC calculated prior. Charges are gained by landing a critical hit or by rolling the maximum value on a damage die. On a miss, the energy fails to detonate or bounces away harmlessly before doing so. </p>
+		</description>
+	</element>
+	
 	<!-- Properties -->
 	<element name="Misfire" type="Weapon Property" source="Raventhemylo" id="ID_RAVENTHEMYLO_WEAPON_PROPERTY_MISFIRE">
 		<description>
