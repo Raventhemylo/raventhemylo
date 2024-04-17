@@ -1,1 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Spells</name>
+		<update version="0.0.1">
+			<file name="Customspells.xml" url="https://github.com/Raventhemylo/raventhemylo/edit/main/Custom%20Spells" />
+		</update>
+	</info>
 
+<element name="Squish" type="Spell" source="Raventhemylo" id="ID_RTM_SPELL_SQUISH">
+		<supports>Sorcerer, Wizard, Warlock, Bard</supports>
+		<description>
+			<p>You move your hand in front of your eye and pretend to squish the target between your fingers slamming magical force into the craeture in attempts to crush it. Make a Ranged Spell Attack against the target. On a hit, the target takes 10d6 Force Damage and half as much on a miss. </p>
+			<p class="indent"><b><i>At Higher Levels.</i></b> You may attempt to squish an additinal target for each level higher this spell is cast as long as all targets are within 20ft of each other.</p>
+		</description>
+		<setters>
+			<set name="keywords">force</set>
+			<set name="level">5</set>
+			<set name="school">Conjuration</set>
+			<set name="time">1 action</set>
+			<set name="duration">Instantaneous</set>
+			<set name="range">60 feet</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">true</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="materialComponent" />
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
