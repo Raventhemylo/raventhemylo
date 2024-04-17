@@ -27,4 +27,5 @@
 			<set name="isConcentration">false</set>
 			<set name="isRitual">false</set>
 		</setters>
-	</element>
+    </element>
+</elements>
