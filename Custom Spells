@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Spells</name>
-		<update version="0.0.1">
+		<update version="0.0.01">
 			<file name="Customspells.xml" url="https://github.com/Raventhemylo/raventhemylo/edit/main/Custom%20Spells" />
 		</update>
 	</info>
