@@ -7,7 +7,7 @@
 		</update>
 	</info>
 
-<element name="Squish" type="Spell" source="Raventhemylo" id="ID_RTM_SPELL_SQUISH">
+    <element name="Squish" type="Spell" source="Raventhemylo" id="ID_RTM_SPELL_SQUISH">
 		<supports>Sorcerer, Wizard, Warlock, Bard</supports>
 		<description>
 			<p>You move your hand in front of your eye and pretend to squish the target between your fingers slamming magical force into the creature and attempt to crush it. Make a Ranged Spell Attack against the target. On a hit, the target takes 10d6 Force Damage and half as much on a miss. </p>
@@ -21,6 +21,27 @@
 			<set name="duration">Instantaneous</set>
 			<set name="range">60 feet</set>
 			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">true</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="materialComponent" />
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+    </element>
+
+    <element name="Truer Strike" type="Spell" source="Raventhemylo" id="ID_RTM_SPELL_TRUERSTRIKE">
+		<supports>Bard, Cleric, Paladin, Ranger, Sorcerer, Wizard, Warlock</supports>
+		<description>
+			<p>On a miss with a weapon attack, you extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses, granting you a d4 to add to the attack roll. </p>
+		</description>
+		<setters>
+			<set name="keywords">Foreknowledge</set>
+			<set name="level">0</set>
+			<set name="school">Divination</set>
+			<set name="time">Reaction</set>
+			<set name="duration">Instantaneous</set>
+			<set name="range">60 feet</set>
+			<set name="hasVerbalComponent">false</set>
 			<set name="hasSomaticComponent">true</set>
 			<set name="hasMaterialComponent">false</set>
 			<set name="materialComponent" />
