@@ -12,14 +12,7 @@
 		<!--Homebrew Spells-->
 		<file name="custom-spells.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/Custom-Spells" />
 
-		<!--Races-->
-		<!-- <file name="race-augmented.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/race-augmented.xml" /> -->
-
-		<!--Subclasses-->
-		<!-- <file name="barbarian-spirits.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/barbarian-spirits.xml" /> -->
-
-		<!--Other-->
-		<!-- <file name="magic-items.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-youtube/master/youtube/pointy-hat/magic-items.xml" /> -->
+		<!--Homebrew Items-->
 		<file name="items-weapons.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/items-weapons.xml" />
 		
 	</files>
