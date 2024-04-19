@@ -10,7 +10,7 @@
 		<file name="source.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/source.xml" />
 
 		<!--Homebrew Spells-->
-		<file name="custom-spells.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/Custom-Spells" />
+		<file name="custom-spells.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/custom-spells.xml" />
 
 		<!--Homebrew Items-->
 		<file name="items-weapons.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/items-weapons.xml" />
