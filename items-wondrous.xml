@@ -7,9 +7,9 @@
 		</update>
 	</info>
 
-    <element name="Eyes of the Watcher" type="Magic Item" source="Raventhemylo" id="ID_RTM_MAGIC_ITEM_EYES_OF_THE_WATCHER">
+    <element name="Eye of the Watcher" type="Magic Item" source="Raventhemylo" id="ID_RTM_MAGIC_ITEM_EYES_OF_THE_WATCHER">
         <description>
-            <p>These bloodred eyes allow their user to learn certain information about a creature's capabilities compared to their own.</p>
+            <p>This bloodred eye allows its user to use a bonus action to learn certain information about a creature's capabilities compared to their own.</p>
             <p>The DM tells you if the creature is your equal, superior, or inferior in regard to one of the following characteristics of your choice:</p>
             <ul>
                 <li>Strength Score</li>
