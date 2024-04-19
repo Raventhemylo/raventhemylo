@@ -14,6 +14,7 @@
 
 		<!--Homebrew Items-->
 		<file name="items-weapons.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/items-weapons.xml" />
+		<file name="Items-Wondrous.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/Items-Wondrous" />
 		
 	</files>
 </index>
