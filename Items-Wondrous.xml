@@ -1,6 +1,34 @@
-<info>
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
 		<name>Items-Wondrous</name>
 		<update version="0.0.01">
 			<file name="Items-Wondrous.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/Items-Wondrous" />
 		</update>
 	</info>
+
+    <element name="Eyes of the Watcher" type="Magic Item" source="Raventhemylo" id="ID_RTM_MAGIC_ITEM_EYES_OF_THE_WATCHER">
+        <description>
+            <p>These bloodred eyes allow their user to learn certain information about a creature's capabilities compared to their own.</p>
+            <p>The DM tells you if the creature is your equal, superior, or inferior in regard to one of the following characteristics of your choice:</p>
+            <ul>
+                <li>Strength Score</li>
+                <li>Dexterity Score</li>
+                <li>Constitution Score</li>
+                <li>Armor Class</li>
+                <li>Current Hit Points</li>
+                <li>Total Class Levels</li>
+            </ul>
+        </description>
+
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp">1000</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">head</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Rare</set>
+        </setters>
+    </element>
+
+</elements>
