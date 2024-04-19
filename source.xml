@@ -16,7 +16,7 @@
 			<set name="url">https://twitter.com/raventhemylo</set>
 			<set name="author" abbreviation="RTM" url="https://twitter.com/raventhemylo">Raen</set>
 			<set name="release">20220221</set>
-			<set name="playtest">true</set>
+			<set name="playtest">false</set>
 			<set name="homebrew">true</set>
 		</setters>
 	</element>
