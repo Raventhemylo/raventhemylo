@@ -2,7 +2,7 @@
 <elements>
     <info>
 		<name>Items-Wondrous</name>
-		<update version="0.0.011">
+		<update version="0.0.02">
 			<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/items-wondrous.xml" />
 		</update>
 	</info>
