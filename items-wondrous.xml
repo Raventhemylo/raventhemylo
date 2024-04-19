@@ -2,7 +2,7 @@
 <elements>
     <info>
 		<name>Items-Wondrous</name>
-		<update version="0.0.01">
+		<update version="0.0.02">
 			<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/Raventhemylo/raventhemylo/main/items-wondrous.xml" />
 		</update>
 	</info>
@@ -10,7 +10,7 @@
     <element name="Eyes of the Watcher" type="Magic Item" source="Raventhemylo" id="ID_RTM_MAGIC_ITEM_EYES_OF_THE_WATCHER">
         <description>
             <p>These bloodred eyes allow their user to learn certain information about a creature's capabilities compared to their own.</p>
-            <p>The DM tells you if the creature is your equal, superior, or inferior in regard to one of the following characteristics of your choice:</p>
+            <p>The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</p>
             <ul>
                 <li>Strength Score</li>
                 <li>Dexterity Score</li>
